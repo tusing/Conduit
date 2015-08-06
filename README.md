@@ -80,8 +80,8 @@ Send packets of data, pausing of necessary*
 * * [ ] **```allocate_vm_dockers(num)```**
 *Will allocate a number of Docker instances depending on certain factors - available memory, etc. If more Docker instances than requested are running at the same time, the jobs being run will finish before closing.*
 
-**Client-side VM Implementation****
-***Used to manage Docker instances*.
+**Client-side VM Implementation**
+*Used to manage Docker instances.*
 
 * * [ ] **```ssh_keygen(user_details)```**
 Will use relevant user details to contact the server and agree upon a key.
