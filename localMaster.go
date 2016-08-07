@@ -1,3 +1,0 @@
-type LocalMaster struct{
-  Provider
-}
